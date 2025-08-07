@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hey, I’m Daksh Pawar!</h1>
   <h3>A Passionate MERN Stack Developer from India 🌍</h3>
-  <img src="https://komarev.com/ghpvc/?username=Yashasvi-Khatri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dakshhhh-ctrl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
   <p>
     🌱 Currently mastering the <b>MERN Stack</b> and diving into <b>Generative AI</b>.<br>
     💡 I enjoy crafting interactive web apps and exploring <b>Machine Learning</b>.<br>
-    📫 Reach me at: <a href="mailto: daksh.pawar1978@gmail.com">khatriyashasvi425@gmail.com</a>
+    📫 Reach me at: <a href="mailto: daksh.pawar1978@gmail.com">daksh.pawar1978@gmail.com</a>
   </p>
 </div>
 
